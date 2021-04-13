@@ -32,5 +32,4 @@ for letter in userWord:
 	
 	else:
 		wordwithoutvowels+= letter
-
 		print(wordwithoutvowels)					
